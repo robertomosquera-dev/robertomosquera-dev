@@ -19,13 +19,15 @@
 
 ## 👤 Sobre mí
 
-```yaml
-nombre:   Roberto Mosquera
-rol:      Backend Developer
-enfoque:  Java · Spring Boot · APIs REST · Bases de datos
-idioma:   Español 🇪🇸
-estado:   Construyendo, aprendiendo, rompiendo cosas y arreglándolas 🔧
-```
+<img align="right" width="150px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+
+- 🎓 Estudiante de **Ingeniería de Software** en la UTP, Lima — Perú 🇵🇪
+- 💻 Especializado en **backend con Java 17 y Spring Boot**
+- 🏗️ Me apasiona construir **APIs REST limpias** y sistemas bien arquitecturados
+- 🐳 Trabajo con **Docker**, **Git** y bases de datos relacionales día a día
+- 📜 Certificado en **Java 25 Backend Developer** — MitoCode Network (2026)
+- 🌱 Actualmente explorando **microservicios, AWS, Kafka y automatización con n8n**
+- 🎯 Meta: ser un **Backend Engineer** sólido, con criterio y buenos fundamentos
 
 ---
 
@@ -39,7 +41,7 @@ estado:   Construyendo, aprendiendo, rompiendo cosas y arreglándolas 🔧
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -49,6 +51,8 @@ estado:   Construyendo, aprendiendo, rompiendo cosas y arreglándolas 🔧
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 </div>
 
@@ -58,23 +62,23 @@ estado:   Construyendo, aprendiendo, rompiendo cosas y arreglándolas 🔧
 
 > *"Siempre hay algo nuevo por dominar."*
 
-```
-⚙️  Microservicios    ████████░░  80%
-🐍  Python            ██████░░░░  60%
-☁️  AWS               ████░░░░░░  40%
-📨  Kafka             ██░░░░░░░░  20%
-🧠  Redis             ██░░░░░░░░  20%
-🤖  n8n               ██░░░░░░░░  20%
-```
+| Tecnología | Progreso | % |
+|---|---|---|
+| ⚙️ Microservicios | `████████░░` | **80%** |
+| 🐍 Python | `██████░░░░` | **60%** |
+| ☁️ AWS | `████░░░░░░` | **40%** |
+| 📨 Kafka | `██░░░░░░░░` | **20%** |
+| 🧠 Redis | `██░░░░░░░░` | **20%** |
+| 🤖 n8n | `██░░░░░░░░` | **20%** |
 
 <div align="center">
 
-![Microservicios](https://img.shields.io/badge/Microservicios-learning-1a1f2e?style=flat-square&logo=apachekafka&logoColor=58a6ff)
-![Python](https://img.shields.io/badge/Python-learning-1a1f2e?style=flat-square&logo=python&logoColor=58a6ff)
-![AWS](https://img.shields.io/badge/AWS-learning-1a1f2e?style=flat-square&logo=amazonaws&logoColor=58a6ff)
-![Kafka](https://img.shields.io/badge/Kafka-learning-1a1f2e?style=flat-square&logo=apachekafka&logoColor=58a6ff)
-![Redis](https://img.shields.io/badge/Redis-learning-1a1f2e?style=flat-square&logo=redis&logoColor=58a6ff)
-![n8n](https://img.shields.io/badge/n8n-learning-1a1f2e?style=flat-square&logo=n8n&logoColor=58a6ff)
+![Microservicios](https://img.shields.io/badge/Microservicios-80%25-58a6ff?style=for-the-badge&labelColor=1a1f2e)
+![Python](https://img.shields.io/badge/Python-60%25-3776AB?style=for-the-badge&labelColor=1a1f2e)
+![AWS](https://img.shields.io/badge/AWS-40%25-FF9900?style=for-the-badge&labelColor=1a1f2e)
+![Kafka](https://img.shields.io/badge/Kafka-20%25-231F20?style=for-the-badge&labelColor=1a1f2e)
+![Redis](https://img.shields.io/badge/Redis-20%25-DC382D?style=for-the-badge&labelColor=1a1f2e)
+![n8n](https://img.shields.io/badge/n8n-20%25-EA4B71?style=for-the-badge&labelColor=1a1f2e)
 
 </div>
 
@@ -84,14 +88,30 @@ estado:   Construyendo, aprendiendo, rompiendo cosas y arreglándolas 🔧
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=robertomosquera-dev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertomosquera-dev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6"/>
+<a href="https://github.com/robertomosquera-dev">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=robertomosquera-dev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertomosquera-dev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6"/>
+</a>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=robertomosquera-dev&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+<a href="https://github.com/robertomosquera-dev">
+  <img src="https://streak-stats.demolab.com?user=robertomosquera-dev&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&locale=es"/>
+</a>
+
+</div>
+
+> 💡 *Las estadísticas crecen con cada commit. El camino apenas empieza.*
+
+---
+
+## 📈 Actividad de commits
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=robertomosquera-dev&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&area_color=1a1f2e)](https://github.com/robertomosquera-dev)
 
 </div>
 

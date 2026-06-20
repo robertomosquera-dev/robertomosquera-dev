@@ -26,7 +26,7 @@
 - 🏗️ Me apasiona construir **APIs REST limpias** y sistemas bien arquitecturados
 - 🐳 Trabajo con **Docker**, **Git** y bases de datos relacionales día a día
 - 📜 Certificado en **Java 25 Backend Developer** — MitoCode Network (2026)
-- 🌱 Actualmente explorando **microservicios, AWS, Kafka y automatización con n8n**
+- 🌱 Actualmente explorando **microservicios, AWS, Node.js/Express y automatización con n8n**
 - 🎯 Meta: ser un **Backend Engineer** sólido, con criterio y buenos fundamentos
 
 ---
@@ -65,18 +65,18 @@
 | Tecnología | Progreso | % |
 |---|---|---|
 | ⚙️ Microservicios | `████████░░` | **80%** |
-| 🐍 Python | `██████░░░░` | **60%** |
+| 🟢 Node.js | `████░░░░░` | **40%** |
 | ☁️ AWS | `████░░░░░░` | **40%** |
-| 📨 Kafka | `██░░░░░░░░` | **20%** |
+| 🚂 Express | `███░░░░░░░` | **30%** |
 | 🧠 Redis | `██░░░░░░░░` | **20%** |
 | 🤖 n8n | `██░░░░░░░░` | **20%** |
 
 <div align="center">
 
 ![Microservicios](https://img.shields.io/badge/Microservicios-80%25-58a6ff?style=for-the-badge&labelColor=1a1f2e)
-![Python](https://img.shields.io/badge/Python-60%25-3776AB?style=for-the-badge&labelColor=1a1f2e)
+![Node.js](https://img.shields.io/badge/Node.js-60%25-339933?style=for-the-badge&labelColor=1a1f2e)
 ![AWS](https://img.shields.io/badge/AWS-40%25-FF9900?style=for-the-badge&labelColor=1a1f2e)
-![Kafka](https://img.shields.io/badge/Kafka-20%25-231F20?style=for-the-badge&labelColor=1a1f2e)
+![Express](https://img.shields.io/badge/Express-30%25-000000?style=for-the-badge&labelColor=1a1f2e)
 ![Redis](https://img.shields.io/badge/Redis-20%25-DC382D?style=for-the-badge&labelColor=1a1f2e)
 ![n8n](https://img.shields.io/badge/n8n-20%25-EA4B71?style=for-the-badge&labelColor=1a1f2e)
 
